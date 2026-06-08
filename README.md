@@ -30,7 +30,7 @@ El sitio incluye:
 
 ## 🖼️ Vista Previa
 
-<img src="C:\Users\LENOVO\OneDrive\Desktop\Captura de pantalla 2026-06-07 190130.png">
+<img src="/imagenes/captura.png" width="800">
 
 ---
 
