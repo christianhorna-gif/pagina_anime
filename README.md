@@ -30,7 +30,7 @@ El sitio incluye:
 
 ## 🖼️ Vista Previa
 
-<img src="./imagenes/fondo.jpg" width="800">
+<img src="C:\Users\LENOVO\OneDrive\Desktop\Captura de pantalla 2026-06-07 190130.png">
 
 ---
 
@@ -94,6 +94,6 @@ pagina_anime/
 
 <img src="https://media.tenor.com/0AVbKGY_MxMAAAAC/anime-thumbs-up.gif" width="300">
 
-### 🌸 "El código también puede ser arte." 🌸
+### "El código también puede ser arte." 
 
 </div>
