@@ -30,7 +30,7 @@ El sitio incluye:
 
 ## 🖼️ Vista Previa
 
-<img src="C:\Users\LENOVO\OneDrive\Desktop\Captura de pantalla 2026-06-07 190130.png">
+<img src="https://anmosugoi.com/go-toubun-no-hanayome-las-seiyuus-imitan-los-gestos-de-las-quintillizas-para-una-revista-en-japon/">
 
 ---
 
