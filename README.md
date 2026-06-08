@@ -30,7 +30,7 @@ El sitio incluye:
 
 ## 🖼️ Vista Previa
 
-<img src="/imagenes/captura.png" width="800">
+<img src="/imagenes/fondo.jpg" width="800">
 
 ---
 
